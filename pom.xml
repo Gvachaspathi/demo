@@ -41,10 +41,11 @@
   </plugin>
   <plugin>
 <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-site-plugin -->
-	  <!-- testing -->
+	  
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-site-plugin</artifactId>
     <version>3.8.2</version>
+	  <!-- vachas -->
 </plugin>
 <plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
